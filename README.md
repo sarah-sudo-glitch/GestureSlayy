@@ -50,7 +50,7 @@ pip package manager
 Steps
 bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/GestureSlayy.git
+git clone https://github.com/sarah-sudo-glitch/GestureSlayy.git
 cd GestureSlayy
 
 # 2. (Optional) Create a virtual environment
